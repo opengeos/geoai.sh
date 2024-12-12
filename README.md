@@ -1,3 +1,3 @@
 # geoai.sh
 
-Source code for the geoai.sh website
+Open-access resources for geospatial artificial intelligence (GeoAI) research and applications.
